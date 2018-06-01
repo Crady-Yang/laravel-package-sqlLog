@@ -4,7 +4,7 @@ namespace main;
 
 class QueryLog
 {
-	public function sqlLog()
+	public static function sqlLog()
 	{
 		\DB::listen(function ($sql) {
 			$singleSql = $sql->sql;
