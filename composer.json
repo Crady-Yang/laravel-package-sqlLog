@@ -1,0 +1,22 @@
+{
+    "name": "wendy_yang/sql-log",
+    "description": "save sql log",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wenhua",
+            "email": "wenhua@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+    "psr-4": {
+      "Flower\\Rose\\": "src/Flower/Rose",
+      "Flower\\Lily\\": "src/Flower/Lily"
+    }
+  }
+}
