@@ -1,12 +1,12 @@
 {
-    "name": "wendy_yang/sql-log",
+    "name": "Amadeus/sql-log",
     "description": "save sql log",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "wenhua",
-            "email": "wenhua@qq.com"
+            "name": "wendy",
+            "email": "wendy@qq.com"
         }
     ],
     "minimum-stability": "dev",
